@@ -1,0 +1,15 @@
+.project-body{
+    background-image: url("../../images/project-bg.jpg");
+    background-image: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1500px;
+   
+}
+.project-title{
+    text-align: center;
+    padding-top: 50px;
+    color: var(--primary-red);
+    text-transform: uppercase;
+    
+}

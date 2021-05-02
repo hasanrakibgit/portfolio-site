@@ -1,0 +1,10 @@
+.blog-title{
+    text-align: center;
+    padding-top: 200px;
+    background-image: url("../../images/blog-bg.jpg");
+    background-image: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    color: var(--primary-orange);
+}
